@@ -7,6 +7,8 @@
 3. [Two Sum](https://leetcode.com/problems/two-sum/)
 4. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 5. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+6. [Find the difference](https://leetcode.com/problems/find-the-difference/)
+7. [Single Number](https://leetcode.com/problems/single-number/)
 
 ## Medium
 
