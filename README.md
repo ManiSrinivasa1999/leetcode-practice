@@ -11,6 +11,9 @@
 7. [Single Number](https://leetcode.com/problems/single-number/)
 8. [Length of last word](https://leetcode.com/problems/length-of-last-word/)
 9. [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
+10. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+11. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
 ## Medium
 
