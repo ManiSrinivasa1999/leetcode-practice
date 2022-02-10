@@ -14,6 +14,8 @@
 10. [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 11. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+13. [Plus One](https://leetcode.com/problems/plus-one/)
+14. [Reverse String](https://leetcode.com/problems/reverse-string/)
 
 ## Medium
 
