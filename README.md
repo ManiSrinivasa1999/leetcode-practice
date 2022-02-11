@@ -16,6 +16,9 @@
 12. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 13. [Plus One](https://leetcode.com/problems/plus-one/)
 14. [Reverse String](https://leetcode.com/problems/reverse-string/)
+15. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+16. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+17. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 ## Medium
 
