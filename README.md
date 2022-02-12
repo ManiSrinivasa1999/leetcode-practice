@@ -19,6 +19,7 @@
 15. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 16. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 17. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+18. [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 
