@@ -20,6 +20,9 @@
 16. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 17. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 18. [Binary Search](https://leetcode.com/problems/binary-search/)
+19. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+20. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+21. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ## Medium
 
