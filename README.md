@@ -23,6 +23,9 @@
 19. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 20. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 21. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+22. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+23. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+24. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 ## Medium
 
