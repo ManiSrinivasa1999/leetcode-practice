@@ -27,6 +27,9 @@
 23. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 24. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 25. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+26. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+27. [Ransom Note](https://leetcode.com/problems/ransom-note/)
+28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 ## Medium
 
