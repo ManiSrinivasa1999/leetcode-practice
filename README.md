@@ -30,10 +30,12 @@
 26. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 27. [Ransom Note](https://leetcode.com/problems/ransom-note/)
 28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+29. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## Medium
 
 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ## Hard
+
 1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
