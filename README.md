@@ -39,3 +39,4 @@
 ## Hard
 
 1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+2. [Sort Colors](https://leetcode.com/problems/sort-colors/)
