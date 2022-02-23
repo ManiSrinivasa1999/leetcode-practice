@@ -31,6 +31,7 @@
 27. [Ransom Note](https://leetcode.com/problems/ransom-note/)
 28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 29. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+30. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 
 ## Medium
 
