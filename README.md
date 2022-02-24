@@ -32,6 +32,7 @@
 28. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 29. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 30. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+31. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 
 ## Medium
 
