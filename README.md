@@ -33,6 +33,10 @@
 29. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 30. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 31. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+32. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+33. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+34. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
+35. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 
 ## Medium
 
