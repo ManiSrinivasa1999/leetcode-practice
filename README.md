@@ -37,6 +37,9 @@
 33. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 34. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 35. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
+36. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+37. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+38. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 
 ## Medium
 
