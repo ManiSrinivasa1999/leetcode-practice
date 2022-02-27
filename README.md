@@ -40,6 +40,9 @@
 36. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 37. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 38. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+39. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
+40. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+41. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ## Medium
 
