@@ -43,6 +43,9 @@
 39. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 40. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 41. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
+42. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
+43. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+44. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
 ## Medium
 
