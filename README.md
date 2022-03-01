@@ -46,6 +46,7 @@
 42. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 43. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 44. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
+45. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
 ## Medium
 
