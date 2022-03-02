@@ -47,6 +47,8 @@
 43. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 44. [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 45. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+46. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+47. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 
 ## Medium
 
