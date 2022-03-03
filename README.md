@@ -49,6 +49,7 @@
 45. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 46. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 47. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+48. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 
 ## Medium
 
