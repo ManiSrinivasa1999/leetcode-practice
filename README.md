@@ -51,6 +51,7 @@
 47. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 48. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 49. [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+50. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 ## Medium
 
