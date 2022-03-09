@@ -52,6 +52,7 @@
 48. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 49. [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 50. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+51. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 
 ## Medium
 
